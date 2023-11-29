@@ -84,5 +84,3 @@
     </div>
     <!-- Contact Form End -->
 @endsection
-
-php artisan make:controller HomeController
